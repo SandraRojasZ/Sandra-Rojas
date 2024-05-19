@@ -1,5 +1,6 @@
+# Sandra Rojas Z
 
-# Bem-vindo ao meu perfil! 👋
+## Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
 Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas. Tenho interesse por Python, AWS, SQL, PHP, HTML, CSS e estou sempre procurando aprender mais sobre Machine Learning e IA.
@@ -15,14 +16,15 @@ Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Si
 - 📝 Posso colaborar em projetos relacionados a Análise de Dados, Projeções e Dashboard.
 
 ## Como me encontrar
-- 📫 Você pode entrar em contato comigo pelo https://github.com/SandraRojasZ.
-- 🌐 Você pode conhecer mais sobre mim no meu perfil: https://www.linkedin.com/in/sandra-zegarrundo.
+- 📫 Você pode entrar em contato comigo pelo:  
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandraRojasZ.)
+- 🌐 Você pode conhecer mais sobre mim no meu perfil: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sandra-zegarrundo)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SandraRojasZ&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SandraRojasZ&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Principais linguagens
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraRojasZ&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraRojasZ&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Vamos nos conectar
 Se você está interessado em Automação, Análise Financeira ou em Finanças Pessoais, vamos conversar! Você pode me encontrar no 
