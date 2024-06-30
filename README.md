@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
-Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas. Tenho interesse por Python, AWS, SQL, PHP, HTML, CSS e estou sempre procurando aprender mais sobre Machine Learning e IA.
+Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas. Tenho interesse por Python, AWS, SQL, PHP, HTML, CSS, JAVA e estou sempre procurando aprender mais sobre Machine Learning e IA.
 
 ## O que estou fazendo
 - 💼 Atualmente, estou trabalhando como Analista de Finanças.
@@ -11,7 +11,7 @@ Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Si
 - 💡 Estou trabalhando em tornar especialista em Python.
 
 ## O que eu posso fazer
-- 🤖 Tenho experiência em C, SQL, Python, PHP, HMTL e Conselhos.
+- 🤖 Tenho experiência em C, SQL, Python, PHP, HMTL, JAVA e Power BI.
 - 💬 Posso ajudar com Ciência de Dados.
 - 📝 Posso colaborar em projetos relacionados a Análise de Dados, Projeções e Dashboard.
 
@@ -28,11 +28,11 @@ Me chamo Sandra e estou estudando Tecnologia em Análise e Desenvolvimento de Si
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraRojasZ&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Vamos nos conectar
-Se você está interessado em Automação, Análise Financeira ou em Finanças Pessoais, vamos conversar! Você pode me encontrar no 
+Se você está interessado em Automação, Análise de Dados ou Hackathon, vamos conversar! Você pode me encontrar no 
 [LinkedIn](https://www.linkedin.com/in/sandra-zegarrundo).
 
 ## Obrigado por visitar!
-Obrigado por verificar meu perfil. Fique à vontade para explorar meus projetos e entrar em contato se quiser conversar sobre qualquer coisa!
+Obrigado por verificar meu perfil. Fique à vontade para explorar meus projetos e entrar em contato!
 
 ### Habilidades
 
@@ -42,3 +42,6 @@ Obrigado por verificar meu perfil. Fique à vontade para explorar meus projetos 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
